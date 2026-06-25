@@ -1,0 +1,45 @@
+Using device: cuda:0
+100%|██████████| 170M/170M [00:05<00:00, 33.7MB/s]
+Starting training on Colab...
+[1/20] training loss: 1.711
+Accuracy after epoch 1: 51.35 %
+[2/20] training loss: 1.431
+Accuracy after epoch 2: 58.22 %
+[3/20] training loss: 1.323
+Accuracy after epoch 3: 60.10 %
+[4/20] training loss: 1.258
+Accuracy after epoch 4: 62.31 %
+[5/20] training loss: 1.211
+Accuracy after epoch 5: 66.41 %
+[6/20] training loss: 1.176
+Accuracy after epoch 6: 66.75 %
+[7/20] training loss: 1.146
+Accuracy after epoch 7: 68.85 %
+[8/20] training loss: 1.123
+Accuracy after epoch 8: 68.83 %
+[9/20] training loss: 1.094
+Accuracy after epoch 9: 69.80 %
+[10/20] training loss: 1.074
+Accuracy after epoch 10: 70.10 %
+[11/20] training loss: 1.051
+Accuracy after epoch 11: 71.20 %
+[12/20] training loss: 1.030
+Accuracy after epoch 12: 71.02 %
+[13/20] training loss: 1.020
+Accuracy after epoch 13: 71.12 %
+[14/20] training loss: 1.005
+Accuracy after epoch 14: 72.14 %
+[15/20] training loss: 0.989
+Accuracy after epoch 15: 72.96 %
+[16/20] training loss: 0.980
+Accuracy after epoch 16: 73.10 %
+[17/20] training loss: 0.965
+Accuracy after epoch 17: 72.60 %
+[18/20] training loss: 0.952
+Accuracy after epoch 18: 74.10 %
+[19/20] training loss: 0.941
+Accuracy after epoch 19: 73.95 %
+[20/20] training loss: 0.931
+Accuracy after epoch 20: 74.30 %
+Finished Training
+Accuracy graph saved to accuracy_graph.png
